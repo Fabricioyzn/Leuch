@@ -1,0 +1,170 @@
+Crie um site profissional, moderno e aconchegante para a Leuch Confeitaria, uma confeitaria/padaria tradicional localizada em Campo Largo – PR.
+
+OBJETIVO
+O principal objetivo é fortalecer a marca da Leuch Confeitaria e atrair mais clientes para a loja física. O site não deve ter como foco principal pedidos online, mas sim apresentar a empresa, seus produtos, localização, horário e diferenciais, fazendo o visitante ter vontade de conhecer o estabelecimento.
+
+INFORMAÇÕES DA EMPRESA
+Nome: Leuch Confeitaria
+Endereço: Av. Fritz Ervin Schmidt, 1122 – Jardim Itaqui, Campo Largo – PR, 83604-220
+Telefone: (41) 3399-1692
+Avaliação no Google: 4,6 estrelas com mais de 600 avaliações
+
+ESTILO VISUAL
+Use um visual:
+- Aconchegante
+- Elegante, mas sem parecer uma confeitaria de luxo exagerada
+- Inspirado em padarias e confeitarias tradicionais
+- Profissional e confiável
+- Cores quentes e suaves
+- Tipografia elegante e fácil de ler
+- Fotos grandes e apetitosas dos produtos
+- Bastante espaço em branco para o site não ficar poluído
+- Design responsivo para celular, tablet e computador
+
+Evite aparência genérica de site feito por inteligência artificial. O resultado deve parecer um site profissional criado para uma empresa real e estabelecida.
+
+PÁGINA INICIAL
+No topo, coloque um cabeçalho com:
+- Logo/nome Leuch Confeitaria
+- Início
+- Sobre nós
+- Produtos
+- Avaliações
+- Localização
+- Botão de destaque "Como chegar"
+
+Crie uma seção principal (hero) com uma foto bonita de produtos da confeitaria e:
+
+Título:
+"Sabor que faz parte de Campo Largo."
+
+Texto complementar:
+"Pães, doces, bolos, salgados e aquele sabor especial para todos os momentos."
+
+Botões:
+- "Conheça nossos produtos"
+- "Como chegar"
+
+PRODUTOS
+Crie uma seção visual mostrando alguns dos produtos conhecidos da Leuch Confeitaria, utilizando cartões com fotos:
+
+- Croissant
+- Broa de milho
+- Sonho de doce de leite
+- Bolo de morango com Laka
+- Torta de coco
+- X-Salada
+- Coxinhas
+- Pães
+- Bolos
+- Salgados
+
+Não invente preços. Caso não existam preços fornecidos, não coloque valores.
+
+SOBRE A LEUCH
+Crie uma seção contando sobre a confeitaria de forma acolhedora, destacando:
+- tradição
+- variedade de produtos
+- qualidade
+- atendimento
+
+Não invente informações históricas específicas sobre a empresa. Use apenas informações que possam ser confirmadas.
+
+AVALIAÇÕES
+Crie uma seção destacando a boa reputação da empresa.
+
+Mostrar:
+4,6 ★
++600 avaliações
+
+Apresente comentários reais somente se forem fornecidos posteriormente. Nunca invente depoimentos ou avaliações.
+
+DIFERENCIAIS
+Criar uma seção com ícones para:
+- 🥐 Produtos variados
+- 🍰 Bolos e confeitaria
+- 🥖 Pães frescos
+- ❤️ Atendimento atencioso
+- 🏪 Ambiente agradável
+- 📍 Fácil localização
+
+LOCALIZAÇÃO
+Criar uma seção com o endereço completo:
+
+Av. Fritz Ervin Schmidt, 1122 – Jardim Itaqui
+Campo Largo – PR, 83604-220
+
+Adicionar um botão grande:
+"Abrir no Google Maps"
+
+Também mostrar o telefone:
+(41) 3399-1692
+
+O botão "Abrir no Google Maps" deve abrir a localização da empresa no Google Maps usando o endereço informado.
+
+HORÁRIO
+Criar uma área específica para horário de funcionamento.
+
+Como o horário completo não foi fornecido, deixe a estrutura preparada para inserir os horários corretos posteriormente. NÃO invente horários.
+
+RODAPÉ
+No rodapé colocar:
+
+Leuch Confeitaria
+
+"Um lugar para encontrar bons sabores e momentos especiais."
+
+Também incluir:
+- Endereço
+- Telefone
+- Links de navegação
+- Botão para localização
+
+EXPERIÊNCIA DO USUÁRIO
+O site precisa:
+- Carregar rapidamente
+- Ser excelente no celular
+- Ser responsivo em tablet e computador
+- Ter animações leves e elegantes
+- Ter botões bem visíveis
+- Ter fotos grandes e de boa qualidade
+- Possuir navegação simples
+- Ter boa acessibilidade
+- Ter SEO local para "Leuch Confeitaria", "confeitaria em Campo Largo" e "padaria em Campo Largo – PR"
+- Ter aparência de uma empresa real e estabelecida, não de um template genérico
+
+SEO
+Configure corretamente:
+- Title da página
+- Meta description
+- Open Graph
+- Estrutura de headings
+- Alt text nas imagens
+- Dados estruturados de negócio local quando apropriado
+- Informações de localização de Campo Largo – PR
+
+IMPORTANTE SOBRE CONTEÚDO
+- Não invente preços.
+- Não invente horários.
+- Não invente depoimentos.
+- Não invente história da empresa.
+- Não invente serviços que não foram informados.
+- Quando alguma informação estiver faltando, crie uma estrutura preparada para que ela possa ser adicionada posteriormente.
+
+IMPLEMENTAÇÃO
+Crie o projeto completo e funcional.
+Organize o código de forma limpa e profissional.
+Use componentes reutilizáveis.
+Garanta que todos os botões e links funcionem.
+Garanta que o menu de navegação funcione corretamente no celular.
+Use imagens apropriadas e de boa qualidade, evitando imagens com aparência artificial ou genérica.
+O resultado final deve transmitir qualidade, tradição, confiança, aconchego e vontade de visitar a Leuch Confeitaria pessoalmente.
+
+Antes de finalizar, revise o site procurando:
+- erros de layout
+- links quebrados
+- problemas no celular
+- textos cortados
+- problemas de acessibilidade
+- problemas de carregamento
+- informações inventadas
